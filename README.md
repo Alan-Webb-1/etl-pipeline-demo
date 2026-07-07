@@ -1,2 +1,2 @@
 # etl-pipeline-demo
-This is ETL Data Projecy - DEA
+This is ETL Data Project - DEA
